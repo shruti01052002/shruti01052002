@@ -4,7 +4,7 @@
 - 📫 How to reach me **shrutiyadav26072002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="400" src="https://tenor.com/bSTOD.gif">
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif">
 <p align="left">
 <a href="https://twitter.com/shrutiy38714905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shrutiy38714905" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shruti-yadav-28a249196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shruti-yadav-28a249196/" height="30" width="40" /></a>
